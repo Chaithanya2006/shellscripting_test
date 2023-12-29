@@ -1,1 +1,2 @@
 # shellscripting_test
+A shell script in Linux is a text file containing a sequence of commands written in ascripting language interpreted by the shell. The shell acts as an interface betweenthe user and the operating system, interpreting commands entered by the user orread from a script file. The GNU Bourne-Again Shell also known as bash is thedefault shell for most of the Linux distributions. It commonly runs in its interactiveform which is the Command Line Interface (CLI).
